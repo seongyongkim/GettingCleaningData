@@ -41,9 +41,13 @@ How to run the script to generate the tidy data set described in the above class
 1. This instuction assumes you have a working directory and it will refer it as $WORK_DIR and is the current directory.
 2. This instruction has been tested in Mac OSX v10.9.3.
 3. Download the data from one of the following source.
-	The class archived data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+	```
+	https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+	```
 4. Unzip the file in a working directory: $WORK_DIR
+	```
 	# unzip getdata-projectfiles-UCI\ HAR\ Dataset.zip
+	```
 5. Make sure there is a new directory "UCI HAR Dataset" in $WORK_DIR
 6. Install the R package "reshape2" if it is not installed already.
 	# R
