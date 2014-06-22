@@ -1,9 +1,9 @@
 ==================================================================
-## Class Project : Getting and Cleaning Data Course Project
-## Creating Tidy data set with the average of each variable for each activity and each subject
-## based on Human Activity Recognition Using Smartphones Dataset
-##
-## Version 1.0
+Class Project : Getting and Cleaning Data Course Project
+Creating Tidy data set with the average of each variable for each activity and each subject
+based on Human Activity Recognition Using Smartphones Dataset
+
+Version 1.0
 ==================================================================
 Professor: Jeff Leek, PhD
 ==================================================================
@@ -31,8 +31,9 @@ You should create one R script called run_analysis.R that does the following.
 Files in this Repo
 ======================================
 - README.md: This file
-- run_analysis.R: The script to generate the tidy data set described in the above class project.
 - CodeBook.md: Describes the variables, the data, and any transformations or work performed to clean up the data 
+- run_analysis.R: The script to generate the tidy data set described in the above class project.
+- TidyDataset.txt: Output of the run_analysis.R
 
 How to run the script to generate the tidy data set described in the above class project.
 =========================================
