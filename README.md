@@ -50,13 +50,19 @@ How to run the script to generate the tidy data set described in the above class
 	```
 5. Make sure there is a new directory "UCI HAR Dataset" in $WORK_DIR
 6. Install the R package "reshape2" if it is not installed already.
+	```
 	# R
 	> install.packages("reshape2", repos="http://cran.rstudio.com")
 	> q()
+	```
 7. Execute run_analysis.R
+	```
 	# Rscript run_analysis.R
+	```
 8. To save the output a file named "TidyDataset.txt" 
+	```
 	# Rscript run_analysis.R > TidyDataset.txt
+	```
 
 License:
 ========
